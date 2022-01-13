@@ -1,0 +1,8 @@
+{
+    "baseUrl": "http://automationpractice.com", 
+    "env":{
+        "EXTERNAL_API": "something",
+        "API_KEY": "1213232133"
+    },
+    "projectId": "it9xbi"
+}

@@ -1,0 +1,4 @@
+{
+    "clickNextStep": ".cart_navigation > .button > span",
+    "agreeToTermsAndConditionsId": "#cgv"
+}

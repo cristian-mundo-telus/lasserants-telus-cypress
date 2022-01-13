@@ -1,0 +1,14 @@
+{
+    "goodUser":{
+        "name": "Cristian",
+        "email": "cmundo@outlook.com"
+    },
+    "badUser":{
+        "name": "Fernando",
+        "email": "fer@outlook.com"
+    },
+    "neutralUser":{
+        "name": "Camila",
+        "email": "cami@outlook.com"
+    }
+}

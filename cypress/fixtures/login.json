@@ -1,0 +1,5 @@
+{
+    "emailInputId": "#email",
+    "passwordInputId": "#passwd",
+    "submitButtonId": "#SubmitLogin > span"
+}
